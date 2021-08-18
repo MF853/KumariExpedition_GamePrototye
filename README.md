@@ -10,5 +10,3 @@ Temática: ODS: 13 (Combate às alterações climáticas), 14 (Vida na Água) e 
 Câmera: Fixa/Estática.
 
 Gênero: Puzzle.
-
-Cliente: Professora Amanda.
